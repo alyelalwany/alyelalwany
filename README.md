@@ -1,6 +1,6 @@
 <!--![ME](MEUpdated.jpg)-->
 
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AlexHelmutSonntag&color=blue)
+### Hi there 👋 https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<AlexHelmutSonntag>
 
 Glad to see you here! 
 
