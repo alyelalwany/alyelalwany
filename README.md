@@ -8,6 +8,10 @@ I speak German, English and Arabic at the same level as I grew up speaking Arabi
 
 I am currently taking on projects by University and looking forward to getting challenged on something that will expand my boundaries!
 
+:chart_with_upwards_trend: My Github stats 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--
 **AlexHelmutSonntag/AlexHelmutSonntag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
