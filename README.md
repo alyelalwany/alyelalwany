@@ -1,7 +1,7 @@
 <!--![ME](MEUpdated.jpg)-->
 
-### Hi there 👋 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AlexHelmutSonntag&color=blue)
+
 Glad to see you here! 
 
 My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egypt and currently studying in Budapest,Hungary.
