@@ -1,4 +1,4 @@
-![ME](https://user-images.githubusercontent.com/61309161/116797983-8c21e480-aaeb-11eb-8ebb-eb36829d9024.jpg)
+![ME]MEUpdated.jpg
 
 ### Hi there 👋
 
