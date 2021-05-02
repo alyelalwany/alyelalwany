@@ -1,4 +1,4 @@
-![ME]MEUpdated.jpg
+![ME](MEUpdated.jpg)
 
 ### Hi there 👋
 
