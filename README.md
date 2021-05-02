@@ -1,6 +1,10 @@
 ![ME](MEUpdated.jpg)
 
 ### Hi there 👋
+My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egypt and currently studying in Budapest,Hungary.
+I speak German, English and Arabic at the same level as I grew up speaking Arabic and English. I taught myself how to speak German from scratch amongst other skills as well.
+
+I am currently taking on projects by University and looking forward to getting challenged on something that will expand my boundaries!
 
 <!--
 **AlexHelmutSonntag/AlexHelmutSonntag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
