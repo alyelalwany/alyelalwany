@@ -1,6 +1,6 @@
 <!--![ME](MEUpdated.jpg)-->
 
-### Hi there 👋 https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<AlexHelmutSonntag>
+### Hi there 👋 
 
 Glad to see you here! 
 
