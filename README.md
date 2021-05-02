@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AlexHelmutSonntag/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![alt text](https://github.com/AlexHelmutSonntag/AlexHelmutSonntag/blob/ME.jpg?raw=true)
 ### Hi there 👋
 
 <!--
