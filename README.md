@@ -1,7 +1,7 @@
 ![ME](MEUpdated.jpg)
 
-### Hi there 👋
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here! 
 
 My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egypt and currently studying in Budapest,Hungary.
 I speak German, English and Arabic at the same level as I grew up speaking Arabic and English. I taught myself how to speak German from scratch amongst other skills as well.
