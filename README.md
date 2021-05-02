@@ -14,7 +14,7 @@ I am currently taking on projects by University and looking forward to getting c
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexHelmutSonntag&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHelmutSonntag&theme=blue-green)
 You can reach me on my Email
 :mailbox_with_mail: : alyelalwany@yahoo.com
 
