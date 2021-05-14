@@ -1,6 +1,6 @@
 <!--![ME](MEUpdated.jpg)-->
 
-### Hi there 👋 
+### Hi!
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag)
 
 Glad to see you here! 
