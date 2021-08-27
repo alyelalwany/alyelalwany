@@ -7,9 +7,9 @@
 Glad to see you here! 
 
 My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egypt and currently studying in Budapest,Hungary.
-I taught myself how to speak German from scratch amongst other skills as well.
+<!-- I taught myself how to speak German from scratch amongst other skills as well. -->
 
-I am currently taking on projects by University and looking forward to getting challenged by something that will expand my boundaries!
+<!-- I am currently taking on projects by University and looking forward to getting challenged by something that will expand my boundaries! -->
 
 <!-- ### :chart_with_upwards_trend: My Github stats  -->
 
