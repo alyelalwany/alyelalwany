@@ -19,6 +19,7 @@ My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egy
 
 
 You can reach me on :
+
 my Email -> :mailbox_with_mail: : alyelalwany@gmail.com
 
 LinkedIn -> 💬 : https://www.linkedin.com/in/aly-elalwany-9a1559197/  
