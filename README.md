@@ -18,8 +18,9 @@ My name is Aly Elalwany and I'm a Computer Science student at ELTE. I'm from Egy
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHelmutSonntag&theme=blue-green) -->
 
 
-You can reach me on my Email
-:mailbox_with_mail: : alyelalwany@yahoo.com
+You can reach me on :
+my Email -> :mailbox_with_mail: : alyelalwany@gmail.com
+LinkedIn -> 💬 : https://www.linkedin.com/in/aly-elalwany-9a1559197/  
 
 
 
