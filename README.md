@@ -2,9 +2,9 @@
 
 ### Hi!
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag) -->
 
-Computer Science student at ELTE.
+I am a Computer Science student at ELTE, currently an intern in GCS-SRE team at SAP.
 
 <!-- I taught myself how to speak German from scratch amongst other skills as well. -->
 
