@@ -4,7 +4,7 @@
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag) -->
 
-I am a Computer Science student at ELTE, currently a GCS-SRE intern at SAP.
+I am a Computer Science student at ELTE, currently an intern in GCS-SRE at SAP.
 
 <!-- I taught myself how to speak German from scratch amongst other skills as well. -->
 
