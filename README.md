@@ -19,8 +19,6 @@ I am a Computer Science student at ELTE, currently an intern in GCS-SRE at SAP.
 
 You can reach me on :
 
-My Email -> :mailbox_with_mail: : alyelalwany@gmail.com
-
 LinkedIn -> 💬 : https://www.linkedin.com/in/aly-elalwany-9a1559197/  
 
 
