@@ -4,7 +4,7 @@
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag) -->
 
-I am a Computer Science student at ELTE, currently an intern in GCS-SRE at SAP.
+In case of emergency, you probably know how to reach me!
 
 <!-- I taught myself how to speak German from scratch amongst other skills as well. -->
 
@@ -16,12 +16,7 @@ I am a Computer Science student at ELTE, currently an intern in GCS-SRE at SAP.
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHelmutSonntag&theme=blue-green) -->
 
-
-You can reach me on :
-
 LinkedIn -> 💬 : https://www.linkedin.com/in/aly-elalwany-9a1559197/  
-
-
 
 <!--
 **AlexHelmutSonntag/AlexHelmutSonntag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
