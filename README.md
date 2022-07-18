@@ -4,7 +4,7 @@
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexHelmutSonntag) -->
 
-In case of emergency, you probably know how to reach me!
+If it's important, you probably know how to reach me!
 
 <!-- I taught myself how to speak German from scratch amongst other skills as well. -->
 
