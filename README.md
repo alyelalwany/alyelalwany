@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **internal projects at @sap**
 
-- 📫 How to reach me **alyelalwany@gmail.com**
+- 📫 How to reach me : **alyelalwany@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
