@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhelmutsonntag&label=Profile%20views&color=0e75b6&style=flat" alt="alexhelmutsonntag" /> </p>
 
-- 🔭 I’m currently working at **NTT DATA Deutschland AG**.
+- 🔭 I’m currently working at **NTT DATA Deutschland SE**.
 
 - 📫 How to reach me : **alyelalwany@gmail.com**
 
