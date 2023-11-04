@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhelmutsonntag&label=Profile%20views&color=0e75b6&style=flat" alt="alexhelmutsonntag" /> </p>
 
-- 🔭 I’m currently working at **NTT DATA Deutschland SE**.
+- 🔭 Software Engineer at **NTT DATA Deutschland SE**.
 
 - 📫 How to reach me : **alyelalwany@gmail.com**
 
@@ -18,4 +18,5 @@
 
  
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexhelmutsonntag&" alt="alexhelmutsonntag" /></p> -->
-<a href="https://www.buymeacoffee.com/alielalwany" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!--<a href="https://www.buymeacoffee.com/alielalwany" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> --> 
+
