@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aly</h1>
-<h3 align="center">A software engineer living in Munich.</h3>
+<h3 align="center">A software engineer working in Security, living in Munich.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhelmutsonntag&label=Profile%20views&color=0e75b6&style=flat" alt="alexhelmutsonntag" /> </p>
 
-- 🔭 Software Engineer at **NTT DATA Deutschland SE**.
+- 🔭 Software Engineer at **SAP**.
 
 - 📫 How to reach me : **alyelalwany@gmail.com**
 
