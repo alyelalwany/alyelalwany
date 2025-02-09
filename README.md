@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhelmutsonntag&label=Profile%20views&color=0e75b6&style=flat" alt="alexhelmutsonntag" /> </p>
 
-- 🔭 Software Engineer at **SAP**.
+- 🔭 Software Engineer in BTP security team at <a href="https://github.com/SAP">SAP</a>.
 
 - 📫 How to reach me : **alyelalwany@gmail.com**
 
