@@ -29,6 +29,9 @@
   <img src="https://images.credly.com/size/110x110/images/24d60c97-b01f-4031-9fe3-5f092daa4ab7/image.png" width="200" alt="SAP Security Champion" />
 </a>
 
+<a href="https://www.credly.com/badges/1ee7be79-ec47-4ad9-8ff0-a1cffc73057b/public_url">
+    <img src="https://images.credly.com/size/440x440/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" alt="Certified Kubernetes Administrator (CKA)" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
