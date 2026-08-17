@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/alyelalwany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyelalwany" height="30" width="40" /></a>
 </p>
 
+## Projects
+- [medimap](https://github.com/alyelalwany/medimap); a search tool for medicine in your area.
+
 ## Certifications & Badges
 
 <a href="https://www.credly.com/badges/1ee7be79-ec47-4ad9-8ff0-a1cffc73057b/public_url">
