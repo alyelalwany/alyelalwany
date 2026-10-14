@@ -59,16 +59,6 @@ I previously built a telemetry system that monitors and draws analytics for mill
 
 ---
 
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake.svg" width="100%" />
-</picture>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/alimagdich"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
