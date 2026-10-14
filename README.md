@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+SAP;Security+%7C+Cloud+Native+%7C+Kubernetes;CKA+%7C+AWS+Solutions+Architect" alt="Typing SVG" width="100%" /></a>
+<h1 align="center">Aly Elalwany</h1>
+<h3 align="center">Software Engineer @ SAP · Security · Cloud Native</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
