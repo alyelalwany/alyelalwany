@@ -1,5 +1,5 @@
 <h1 align="center">Aly Elalwany</h1>
-<h3 align="center">Software Engineer @ SAP · Security · Cloud Native</h3>
+<h3 align="center">Software Engineer @ SAP · AI · Cloud</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
