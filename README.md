@@ -57,3 +57,20 @@ I build tools that solve real problems — from real-time medicine finders to AI
     <img src="https://images.credly.com/size/440x440/images/24d60c97-b01f-4031-9fe3-5f092daa4ab7/image.png" width="150" alt="SAP Security Champion" />
   </a>
 </p>
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alyelalwany/alyelalwany/output/github-snake.svg" width="100%" />
+</picture>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/alimagdich"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+</p>
