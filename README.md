@@ -1,32 +1,19 @@
-[![](https://img.shields.io/badge/me@-hub.docker.com-008FD3?style=flat-square&logo=docker)](https://hub.docker.com/u/alyelalwany/)
-[![](https://img.shields.io/badge/me@-linkedin-0e76a8?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alyelalwany/)
-[![](https://img.shields.io/badge/me@-github.com-970A82?style=flat-square&logo=github)](https://github.com/alyelalwany/)
-<img src="https://komarev.com/ghpvc/?username=alexhelmutsonntag&label=Profile%20views&color=0e75b6&style=flat" alt="alyelalwany profile views" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+SAP;Security+%7C+Cloud+Native+%7C+Kubernetes;CKA+%7C+AWS+Solutions+Architect" alt="Typing SVG" width="100%" /></a>
 
-<h1 align="center">Hi 👋, I'm Aly</h1>
-<h3 align="center">A software engineer working in Security, living in Munich.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aly_elalwany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thealimagdi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alyelalwany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyelalwany" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/alyelalwany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://hub.docker.com/u/alyelalwany"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
 </p>
 
-## Projects
-- [medimap](https://github.com/alyelalwany/medimap); a search tool for medicine in your area.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alyelalwany&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
 
-## Certifications & Badges
+---
 
-<a href="https://www.credly.com/badges/1ee7be79-ec47-4ad9-8ff0-a1cffc73057b/public_url">
-    <img src="https://images.credly.com/size/440x440/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" alt="Certified Kubernetes Administrator (CKA)" />
-</a>
+### About Me
 
-<a href="https://www.credly.com/badges/583dfa7c-fd37-41c6-a41d-2746ed0066c3/public_url">
-  <img src="https://images.credly.com/size/440x440/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" alt="AWS Certified Solutions Architect" />
-</a>
+Software Engineer at **SAP**, working in **Security**. Based in Munich.
 
-
-<a href="https://www.credly.com/badges/079ac57a-a101-4e73-95ae-5b05b1e8463b/public_url">
-  <img src="https://images.credly.com/size/110x110/images/24d60c97-b01f-4031-9fe3-5f092daa4ab7/image.png" width="200" alt="SAP Security Champion" />
-</a>
-
+I build tools that solve real problems — from real-time medicine finders to AI-powered CV generators to CLI utilities. Certified Kubernetes Administrator and AWS Solutions Architect with a focus on cloud-native security.
