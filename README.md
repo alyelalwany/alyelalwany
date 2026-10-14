@@ -7,10 +7,6 @@
   <a href="https://hub.docker.com/u/alyelalwany"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alyelalwany&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### About Me
