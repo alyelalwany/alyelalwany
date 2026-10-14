@@ -11,7 +11,7 @@
 
 ### About Me
 
-Software Engineer at **SAP**, working in **Security**. Based in Munich.
+Software Engineer at **SAP**, working in **AI**. Based in Munich.
 
 I build tools that solve real problems — from real-time medicine finders to AI-powered CV generators to CLI utilities. Certified Kubernetes Administrator and AWS Solutions Architect with a focus on cloud-native security.
 
