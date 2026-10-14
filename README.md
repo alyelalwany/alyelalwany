@@ -40,10 +40,6 @@ I build tools that solve real problems — from real-time medicine finders to AI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyelalwany&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyelalwany&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### Certifications & Badges
