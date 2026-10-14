@@ -17,3 +17,16 @@
 Software Engineer at **SAP**, working in **Security**. Based in Munich.
 
 I build tools that solve real problems — from real-time medicine finders to AI-powered CV generators to CLI utilities. Certified Kubernetes Administrator and AWS Solutions Architect with a focus on cloud-native security.
+
+---
+
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/alyelalwany/medimap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alyelalwany&repo=medimap&theme=github_dark&hide_border=true&border_radius=12" alt="medimap" /></a>
+  <a href="https://github.com/alyelalwany/agency"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alyelalwany&repo=agency&theme=github_dark&hide_border=true&border_radius=12" alt="agency" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/alyelalwany/hireme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alyelalwany&repo=hireme&theme=github_dark&hide_border=true&border_radius=12" alt="hireme" /></a>
+  <a href="https://github.com/alyelalwany/gmail-cleaner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alyelalwany&repo=gmail-cleaner&theme=github_dark&hide_border=true&border_radius=12" alt="gmail-cleaner" /></a>
+</p>
