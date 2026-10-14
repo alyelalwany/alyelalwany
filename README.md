@@ -11,9 +11,11 @@
 
 ### About Me
 
-Software Engineer at **SAP**, working in **AI**. Based in Munich.
+I'm a software engineer focused on cloud infrastructure and security. Currently I'm building SAP AI's infrastructure.
 
-I build tools that solve real problems — from real-time medicine finders to AI-powered CV generators to CLI utilities. Certified Kubernetes Administrator and AWS Solutions Architect with a focus on cloud-native security.
+My background spans platform security at SAP and high-throughput microservices. I'm happiest close to the infrastructure: Kubernetes, GitOps, and event-driven architectures.
+
+I previously built a telemetry system that monitors and draws analytics for millions of vehicles across Europe.
 
 ---
 
