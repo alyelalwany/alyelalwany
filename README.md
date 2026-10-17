@@ -5,6 +5,7 @@
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/0xael"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://hub.docker.com/u/0xael"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
+  <a href="https://substack.com/@elalwany"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
 </p>
 
 ---
@@ -62,4 +63,5 @@ I previously built a telemetry system that monitors and draws analytics for mill
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/0xael_"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://substack.com/@elalwany"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
 </p>
